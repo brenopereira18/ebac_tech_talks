@@ -34,7 +34,7 @@
         }
     }
 
-    @media (max-width: 1024px) {
+    @media (max-width: 1024px) and (min-width: 641px) {
         gap: 16px;                  
     }
 }
